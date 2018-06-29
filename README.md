@@ -2,7 +2,7 @@
 WIP Neural Network that plays Tetris and Tetris made by me.
 
 ## Screenshots
-![An image of main gameplay](/images/"Screenshot from 2018-06-29 13-53-10.png"?raw=true "Gameplay")
+![An image of main gameplay](/images/Screenshot%20from%202018-06-29%2013-53-10.png?raw=true "Gameplay")
 
 ## Neural Network
 It is a double deul neural network using the pytorch framework. It uses experience relpay to reduce the effect of time and order on the estimation of the inputs. 
